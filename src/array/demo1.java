@@ -27,7 +27,8 @@ public class demo1 {
         boolean ba= arrayList.contains(egg);
         System.out.println(ba);
 
-        //
+        boolean empty = arrayList.isEmpty();
+        System.out.println(empty);
 
     }
 
